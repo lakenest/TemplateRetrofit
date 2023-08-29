@@ -10,7 +10,7 @@
     android:background="@drawable/bgprincipal">
 
     <androidx.appcompat.widget.AppCompatButton
-        android:background="@drawable/bgbutton"
+        android:background="#92BC65"
         android:text="Consultar"
         android:id="@+id/btnConsultar"
         android:layout_width="match_parent"
